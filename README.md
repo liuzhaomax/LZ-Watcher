@@ -1,4 +1,4 @@
-# LZ-Watcher 版权信息
+# LZ-Watcher 
 
 > LZ-Watcher Platform 缺少安装序列号，标记硬盘只能安装一次（删除项目则可以再装），启动一个相同服务会关闭另一个，出库三人加密，购买节点
 
