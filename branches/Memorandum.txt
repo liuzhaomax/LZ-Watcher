@@ -1,0 +1,1 @@
+LZ-WATCHER-v0.0.0.75-Alpha		2019-05-01	com.lz.watcher.base		systemConfig systemAdmin userAdmin
